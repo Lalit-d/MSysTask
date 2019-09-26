@@ -1,0 +1,9 @@
+export const RESTART_ON_REMOUNT = '@@saga-injector/restart-on-remount';
+export const DAEMON = '@@saga-injector/daemon';
+export const ONCE_TILL_UNMOUNT = '@@saga-injector/once-till-unmount';
+export const actionAngular = 'ActionsAngular';
+export const bidding = '"bidding"';
+export const pravar = 'pravar';
+export const wizard = 'wizard';
+export const superslides = 'superslides';
+export const reactBasicPluralsight = 'react-basic-pluralsight';
